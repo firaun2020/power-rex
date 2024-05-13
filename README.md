@@ -1,6 +1,6 @@
-# Bliss
+# Power-Rex
 
-Bliss is a Flutter web application designed to provide exclusive access to a curated collection of stories.
+Power-Rex is a Flutter web application designed to provide exclusive access to a curated collection of stories.
 
 ## Features
 
@@ -12,7 +12,7 @@ Bliss is a Flutter web application designed to provide exclusive access to a cur
 
 ## Getting Started
 
-To get started with Bliss, follow these steps:
+To get started with Power-Rex, follow these steps:
 
 ### Prerequisites
 
@@ -24,13 +24,13 @@ To get started with Bliss, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/firaun2020/bliss.git
+    git clone https://github.com/firaun2020/power-rex.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd bliss
+    cd power-rex
     ```
 
 3. Install dependencies:
