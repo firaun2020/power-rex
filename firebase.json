@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build/web",
+    "site": "p-rex",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
